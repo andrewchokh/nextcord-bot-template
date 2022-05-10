@@ -1,4 +1,4 @@
-# <p align="center">💾 **SRC folder** 💾</p>
+# <p align="center">**SRC folder**</p>
 The folder contains all the bot's code. <br>
 It has main file:
 - `bot.py` that contains bot's class

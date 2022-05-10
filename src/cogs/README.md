@@ -1,6 +1,4 @@
 # <p align="center">**COGS folder**</p>
-
-## 📄 **Description**
 In this folder will be stored extentions for bot. <br>
 Here's an example of a cog:
 

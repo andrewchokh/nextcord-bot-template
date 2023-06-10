@@ -1,7 +1,7 @@
 # <p align="center">💾 **Discord Bot Template** 💾</p>
 
 ## 📄 **Description**
-A template for creation a discord bot powered by nextcord. 
+A template for creation of discord bot powered by nextcord. 
 
 ## 📕 **Prerequisites**
 - [Python](https://www.python.org/)
